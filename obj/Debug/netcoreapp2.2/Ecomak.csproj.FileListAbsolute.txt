@@ -1,0 +1,16 @@
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Ecomak.deps.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Ecomak.runtimeconfig.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Ecomak.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Ecomak.dll
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\bin\Debug\netcoreapp2.2\Ecomak.pdb
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.RazorAssemblyInfo.cache
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.RazorAssemblyInfo.cs
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.AssemblyInfo.cs
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.RazorTargetAssemblyInfo.cache
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.dll
+C:\Users\Luis\Desktop\ecomak-bolivia\Ecomak-Web\Ecomak-Backend-Final\Ecomak\obj\Debug\netcoreapp2.2\Ecomak.pdb
